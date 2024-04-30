@@ -15,6 +15,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Calculadora de año bisiesto](https://github.com/Loveless2k/CalculadoraAnhoBisiesto)
   - [Comparador decimal](https://github.com/Loveless2k/ComparadorDecimal/)
   - [Comprobador de sumas iguales](https://github.com/Loveless2k/ComprobadorSumaIgual)
+  - [Comprobador de adolescentes](https://github.com/Loveless2k/ComprobadorDeAdolescentes)
 
 Curso en construcción...
 
