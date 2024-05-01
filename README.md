@@ -17,6 +17,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Comprobador de sumas iguales](https://github.com/Loveless2k/ComprobadorSumaIgual)
   - [Comprobador de adolescentes](https://github.com/Loveless2k/ComprobadorDeAdolescentes)
   - [Constantes e introducción a la sobrecarga de métodos en Java](https://github.com/Loveless2k/ConvertirACentrimetros)
+  - [Sobrecarga de métodos e introducción a String.format](https://github.com/Loveless2k/ConvertidorDeTiempo/)
 
 Curso en construcción...
 
