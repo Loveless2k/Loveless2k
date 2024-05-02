@@ -19,6 +19,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Constantes e introducción a la sobrecarga de métodos en Java](https://github.com/Loveless2k/ConvertirACentrimetros)
   - [Sobrecarga de métodos e introducción a String.format](https://github.com/Loveless2k/ConvertidorDeTiempo/)
   - [Calculadora de Area](https://github.com/Loveless2k/CalculadoraDeArea)
+  - [Calculadora de Minutos, Años y Días](https://github.com/Loveless2k/CalculadoraDeMinutosAnhiosYDias/)
 
 Curso en construcción...
 
