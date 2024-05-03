@@ -20,6 +20,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Sobrecarga de métodos e introducción a String.format](https://github.com/Loveless2k/ConvertidorDeTiempo/)
   - [Calculadora de Area](https://github.com/Loveless2k/CalculadoraDeArea)
   - [Calculadora de Minutos, Años y Días](https://github.com/Loveless2k/CalculadoraDeMinutosAnhiosYDias/)
+  - [Impresor de Igualdad](https://github.com/Loveless2k/ImpresorDeIgualdad/)
 
 Curso en construcción...
 
