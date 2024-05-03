@@ -1,13 +1,13 @@
 # Cursito Java 17
 Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
 
-  - [Mi primer programa: Hola Mundo](https://github.com/Loveless2k/JavaMasterClass/)
+  - [Mi primer programa: Hola Mundo](https://github.com/Loveless2k/JavaMasterClass/tree/Clase01)
   - [Fundamentos de Java](https://github.com/Loveless2k/JavaMasterClass/tree/Clase02)
   - [Las operaciones básicas](https://github.com/Loveless2k/JavaMasterClass/tree/Clase03)
   - [Caracteres](https://github.com/Loveless2k/JavaMasterClass/tree/Clase04)
   - [Desafío operadores](https://github.com/Loveless2k/JavaMasterClass/tree/Clase05)
-  - [Sentencia condicional if](https://github.com/Loveless2k/CondicionalIf)
-  - [Métodos](https://github.com/Loveless2k/DesafioMetodos)
+  - [Sentencia condicional if](https://github.com/Loveless2k/JavaMasterClass/tree/Clase06)
+  - [Métodos](https://github.com/Loveless2k/JavaMasterClass/tree/Clase07)
   - [Positivo, negativo o cero](https://github.com/Loveless2k/VerificarNumero/)
   - [La clase Math](https://github.com/Loveless2k/ConvertidorDeVelocidad/)
   - [Cómo abordar un problema](https://github.com/Loveless2k/ConvertidorMegaBytes/)
