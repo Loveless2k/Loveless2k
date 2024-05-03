@@ -3,7 +3,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
 
   - [Mi primer programa: Hola Mundo](https://github.com/Loveless2k/JavaMasterClass/)
   - [Fundamentos de Java](https://github.com/Loveless2k/JavaMasterClass/tree/Clase02)
-  - [Las operaciones básicas](https://github.com/Loveless2k/LibrasAKilogramos)
+  - [Las operaciones básicas](https://github.com/Loveless2k/JavaMasterClass/tree/Clase03)
   - [Caracteres](https://github.com/Loveless2k/DesafioCaracter)
   - [Desafío operadores](https://github.com/Loveless2k/DesafioOperador/)
   - [Sentencia condicional if](https://github.com/Loveless2k/CondicionalIf)
