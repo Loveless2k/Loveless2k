@@ -5,7 +5,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Fundamentos de Java](https://github.com/Loveless2k/JavaMasterClass/tree/Clase02)
   - [Las operaciones básicas](https://github.com/Loveless2k/JavaMasterClass/tree/Clase03)
   - [Caracteres](https://github.com/Loveless2k/JavaMasterClass/tree/Clase04)
-  - [Desafío operadores](https://github.com/Loveless2k/DesafioOperador/)
+  - [Desafío operadores](https://github.com/Loveless2k/JavaMasterClass/tree/Clase05)
   - [Sentencia condicional if](https://github.com/Loveless2k/CondicionalIf)
   - [Métodos](https://github.com/Loveless2k/DesafioMetodos)
   - [Positivo, negativo o cero](https://github.com/Loveless2k/VerificarNumero/)
