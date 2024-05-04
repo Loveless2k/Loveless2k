@@ -9,7 +9,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Sentencia condicional if](https://github.com/Loveless2k/JavaMasterClass/tree/Clase06)
   - [Métodos](https://github.com/Loveless2k/JavaMasterClass/tree/Clase07)
   - [Problema: Positivo, negativo o cero](https://github.com/Loveless2k/JavaMasterClass/tree/Clase08)
-  - [La clase Math](https://github.com/Loveless2k/ConvertidorDeVelocidad/)
+  - [La clase Math](https://github.com/Loveless2k/JavaMasterClass/tree/Clase09)
   - [Cómo abordar un problema](https://github.com/Loveless2k/ConvertidorMegaBytes/)
   - [El uso correcto de boolean](https://github.com/Loveless2k/PerroLadrando/)
   - [Calculadora de año bisiesto](https://github.com/Loveless2k/CalculadoraAnhoBisiesto)
