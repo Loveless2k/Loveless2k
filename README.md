@@ -13,7 +13,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Cómo abordar un problema](https://github.com/Loveless2k/JavaMasterClass/tree/Clase10)
   - [El uso correcto de boolean](https://github.com/Loveless2k/JavaMasterClass/tree/Clase11)
   - [Calculadora de año bisiesto](https://github.com/Loveless2k/JavaMasterClass/tree/Clase12)
-  - [Comparador decimal](https://github.com/Loveless2k/ComparadorDecimal/)
+  - [Comparador decimal](https://github.com/Loveless2k/JavaMasterClass/tree/Clase13)
   - [Comprobador de sumas iguales](https://github.com/Loveless2k/ComprobadorSumaIgual)
   - [Comprobador de adolescentes](https://github.com/Loveless2k/ComprobadorDeAdolescentes)
   - [Constantes e introducción a la sobrecarga de métodos en Java](https://github.com/Loveless2k/ConvertirACentrimetros)
