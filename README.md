@@ -11,7 +11,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Problema: Positivo, negativo o cero](https://github.com/Loveless2k/JavaMasterClass/tree/Clase08)
   - [La clase Math](https://github.com/Loveless2k/JavaMasterClass/tree/Clase09)
   - [Cómo abordar un problema](https://github.com/Loveless2k/JavaMasterClass/tree/Clase10)
-  - [El uso correcto de boolean](https://github.com/Loveless2k/PerroLadrando/)
+  - [El uso correcto de boolean](https://github.com/Loveless2k/JavaMasterClass/tree/Clase11)
   - [Calculadora de año bisiesto](https://github.com/Loveless2k/CalculadoraAnhoBisiesto)
   - [Comparador decimal](https://github.com/Loveless2k/ComparadorDecimal/)
   - [Comprobador de sumas iguales](https://github.com/Loveless2k/ComprobadorSumaIgual)
