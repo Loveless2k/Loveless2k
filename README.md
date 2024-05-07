@@ -15,7 +15,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Calculadora de año bisiesto](https://github.com/Loveless2k/JavaMasterClass/tree/Clase12)
   - [Comparador decimal](https://github.com/Loveless2k/JavaMasterClass/tree/Clase13)
   - [Comprobador de sumas iguales](https://github.com/Loveless2k/JavaMasterClass/tree/Clase14)
-  - [Comprobador de adolescentes](https://github.com/Loveless2k/ComprobadorDeAdolescentes)
+  - [Comprobador de adolescentes](https://github.com/Loveless2k/JavaMasterClass/tree/Clase15)
   - [Constantes e introducción a la sobrecarga de métodos en Java](https://github.com/Loveless2k/ConvertirACentrimetros)
   - [Sobrecarga de métodos e introducción a String.format](https://github.com/Loveless2k/ConvertidorDeTiempo/)
   - [Calculadora de Area](https://github.com/Loveless2k/CalculadoraDeArea)
