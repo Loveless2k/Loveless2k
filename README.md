@@ -21,6 +21,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Calculadora de Area](https://github.com/Loveless2k/JavaMasterClass/tree/Clase18)
   - [Calculadora de Minutos, Años y Días](https://github.com/Loveless2k/JavaMasterClass/tree/Clase19)
   - [Impresor de Igualdad](https://github.com/Loveless2k/JavaMasterClass/tree/Clase20)
+  - [Operador Ternario](https://github.com/Loveless2k/JavaMasterClass/tree/Clase21)
 
 Curso en construcción...
 
