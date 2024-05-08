@@ -20,7 +20,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Sobrecarga de métodos e introducción a String.format](https://github.com/Loveless2k/JavaMasterClass/tree/Clase17)
   - [Calculadora de Area](https://github.com/Loveless2k/JavaMasterClass/tree/Clase18)
   - [Calculadora de Minutos, Años y Días](https://github.com/Loveless2k/JavaMasterClass/tree/Clase19)
-  - [Impresor de Igualdad](https://github.com/Loveless2k/ImpresorDeIgualdad/)
+  - [Impresor de Igualdad](https://github.com/Loveless2k/JavaMasterClass/tree/Clase20)
 
 Curso en construcción...
 
