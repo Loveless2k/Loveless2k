@@ -24,6 +24,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Operador Ternario](https://github.com/Loveless2k/JavaMasterClass/tree/Clase21)
   - [Switch](https://github.com/Loveless2k/JavaMasterClass/tree/Clase22)
   - [Yield](https://github.com/Loveless2k/JavaMasterClass/tree/Clase23)
+  - [Problema: Conversor a NATO](https://github.com/Loveless2k/JavaMasterClass/tree/Clase24)
 
 Curso en construcción...
 
