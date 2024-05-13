@@ -27,6 +27,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Problema: Conversor a NATO v1.0](https://github.com/Loveless2k/JavaMasterClass/tree/Clase24)
   - [Problema: Conversor a NATO v2.0](https://github.com/Loveless2k/JavaMasterClass/tree/Clase25)
   - [Problema: Número en una palabra](https://github.com/Loveless2k/JavaMasterClass/tree/Clase26)
+  - [Problema: Número de dias en el mes](https://github.com/Loveless2k/JavaMasterClass/tree/Clase27)
 
 Curso en construcción...
 
