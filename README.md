@@ -31,6 +31,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Bucle condicional for](https://github.com/Loveless2k/JavaMasterClass/tree/Clase28)
   - [Problema: Suma de múltiplos de 3 y 5](https://github.com/Loveless2k/JavaMasterClass/tree/Clase29)
   - [Problema: Suma de impares](https://github.com/Loveless2k/JavaMasterClass/tree/Clase30)
+  - [Condicional while](https://github.com/Loveless2k/JavaMasterClass/tree/Clase31)
 
 Curso en construcción...
 
