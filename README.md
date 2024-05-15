@@ -29,7 +29,8 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Problema: Número en una palabra](https://github.com/Loveless2k/JavaMasterClass/tree/Clase26)
   - [Problema: Número de dias en el mes](https://github.com/Loveless2k/JavaMasterClass/tree/Clase27)
   - [Bucle condicional for](https://github.com/Loveless2k/JavaMasterClass/tree/Clase28)
-  - [Problema: Suma de mñultiplos de 3 y 5](https://github.com/Loveless2k/JavaMasterClass/tree/Clase29)
+  - [Problema: Suma de múltiplos de 3 y 5](https://github.com/Loveless2k/JavaMasterClass/tree/Clase29)
+  - [Problema: Suma de impares](https://github.com/Loveless2k/JavaMasterClass/tree/Clase30)
 
 Curso en construcción...
 
