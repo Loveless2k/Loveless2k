@@ -36,6 +36,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Problema: Número palíndromo](https://github.com/Loveless2k/JavaMasterClass/tree/Clase33)
   - [Problema: Suma primer y último dígito](https://github.com/Loveless2k/JavaMasterClass/tree/Clase34)
   - [Problema: Suma de números pares](https://github.com/Loveless2k/JavaMasterClass/tree/Clase35)
+  - [Problema: Dígito compartido](https://github.com/Loveless2k/JavaMasterClass/tree/Clase36)
 
 Curso en construcción...
 
