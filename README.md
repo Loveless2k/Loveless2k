@@ -34,6 +34,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Condicional while](https://github.com/Loveless2k/JavaMasterClass/tree/Clase31)
   - [Descomposición de números con % Y /](https://github.com/Loveless2k/JavaMasterClass/tree/Clase32)
   - [Problema: Número palíndromo](https://github.com/Loveless2k/JavaMasterClass/tree/Clase33)
+  - [Problema: Suma primer y último dígito](https://github.com/Loveless2k/JavaMasterClass/tree/Clase34)
 
 Curso en construcción...
 
