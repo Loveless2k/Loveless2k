@@ -40,6 +40,7 @@ Si deseas seguir mi curso de Java 17, revisa los siguientes enlaces en orden:
   - [Problema: Comprobador de último dígito](https://github.com/Loveless2k/JavaMasterClass/tree/Clase37)
   - [Problema: Todos los factores](https://github.com/Loveless2k/JavaMasterClass/tree/Clase38)
   - [Problema: El algoritmo de Euclides](https://github.com/Loveless2k/JavaMasterClass/tree/Clase39)
+  - [Problema: El número perfecto](https://github.com/Loveless2k/JavaMasterClass/tree/Clase40)
 
 Curso en construcción...
 
